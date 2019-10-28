@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/createreactapp/static/css/main.b100e6da.chunk.css",
+    "main.js": "/createreactapp/static/js/main.a4a745c4.chunk.js",
+    "main.js.map": "/createreactapp/static/js/main.a4a745c4.chunk.js.map",
+    "runtime-main.js": "/createreactapp/static/js/runtime-main.46dfd299.js",
+    "runtime-main.js.map": "/createreactapp/static/js/runtime-main.46dfd299.js.map",
+    "static/js/2.b5a413ef.chunk.js": "/createreactapp/static/js/2.b5a413ef.chunk.js",
+    "static/js/2.b5a413ef.chunk.js.map": "/createreactapp/static/js/2.b5a413ef.chunk.js.map",
+    "index.html": "/createreactapp/index.html",
+    "precache-manifest.efba4fbe965333dad5cd97c1172f3ed6.js": "/createreactapp/precache-manifest.efba4fbe965333dad5cd97c1172f3ed6.js",
+    "service-worker.js": "/createreactapp/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/createreactapp/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/createreactapp/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46dfd299.js",
+    "static/js/2.b5a413ef.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a4a745c4.chunk.js"
+  ]
+}
